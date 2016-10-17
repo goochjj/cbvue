@@ -38,7 +38,7 @@ component accessors="true" singleton{
 	* Get all contacts
 	*/
 	struct function getAll(){
-		return variables.contacts;
+		/*return variables.contacts;*/
 	}
 
 	/**
